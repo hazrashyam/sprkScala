@@ -1,2 +1,2 @@
 # sprkScala
-Demo project for basic scala using Scala
+Demo project for basic spark using Scala
